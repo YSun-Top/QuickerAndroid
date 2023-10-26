@@ -18,8 +18,14 @@
 
     <string name="inputUserName">Quicker登录账号</string>
     <string name="inputPushCode">推送验证码</string>
-    <string name="serviceHost">电脑 IP:</string>
-    <string name="servicePort">端口:</string>
+    <string name="serviceHost">电脑 IP</string>
+    <string name="servicePort">端口</string>
+    <string name="authCode">验证码</string>
+    <string name="webSocketPort">WebSocket端口</string>
+    <string name="webSocketAuthCode">WebSocket验证码</string>
+    <string name="btnConnect">连接</string>
+    <string name="useAppHint">请先运行pc端软件，并且和pc端软件接入同一个局域网。\n下载网址: https://getquicker.net </string>
+
 
     <string name="addNewTask_str">添加任务</string>
     <!-- Strings used for fragments for navigation -->
